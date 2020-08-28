@@ -5,8 +5,8 @@ A news crawler for the site tehrantimes.com
 -------------------------------------------
 Prerequsites
 
-Python3 and beautifulsoup library installed
--------------------------------------------
+Python3 and beautifulsoup library installed (see the userguide)
+---------------------------------------------------------------
 
 ***********
 *IMPORTANT*
